@@ -16,7 +16,7 @@ class Stack {
             return this.stack.pop();
         }
     }
-}
+} 
 const guest = new Stack();
 guest.add('Rohim');
 guest.add('kohim');
